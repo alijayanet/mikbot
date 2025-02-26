@@ -92,7 +92,7 @@ Kontribusi, laporan masalah, dan permintaan fitur sangat diterima!
 # Dukungan
 Untuk mendapatkan bantuan, silakan buat issue di repositori atau hubungi administrator melalui WhatsApp.
 
-wa.me/6281947215703
+https://wa.me/6281947215703
 
 atau link group telegram
 
