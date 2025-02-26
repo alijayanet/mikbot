@@ -52,21 +52,21 @@ Saat pertama kali menjalankan aplikasi, Anda perlu memindai kode QR untuk mengau
 
 Berikut adalah perintah-perintah yang tersedia melalui WhatsApp:
 
-!addpppoe <username> <password> <profile> - Menambah pengguna PPPoE baru
+addpppoe <username> <password> <profile> - Menambah pengguna PPPoE baru
 
-!editpppoe <username> <newprofile> - Mengedit profil pengguna PPPoE yang ada
+editpppoe <username> <newprofile> - Mengedit profil pengguna PPPoE yang ada
 
-!delpppoe <username> - Menghapus pengguna PPPoE
+delpppoe <username> - Menghapus pengguna PPPoE
 
-!checkpppoe - Memeriksa pengguna PPPoE yang aktif
+checkpppoe - Memeriksa pengguna PPPoE yang aktif
 
-!addhotspot <username> <password> <profile> - Menambah pengguna hotspot baru
+addhotspot <username> <password> <profile> - Menambah pengguna hotspot baru
 
-!delhotspot <username> - Menghapus pengguna hotspot
+delhotspot <username> - Menghapus pengguna hotspot
 
-!checkhotspot - Memeriksa pengguna hotspot yang aktif
+checkhotspot - Memeriksa pengguna hotspot yang aktif
 
-!help - Menampilkan daftar perintah yang tersedia
+help - Menampilkan daftar perintah yang tersedia
 
 Detail Fitur
 
@@ -83,7 +83,7 @@ Pencatatan error dan notifikasi
 # Pengembang
 alijaya-net
 
-Lisensi
+# Lisensi
 ISC
 
 # Kontribusi
@@ -91,6 +91,12 @@ Kontribusi, laporan masalah, dan permintaan fitur sangat diterima!
 
 # Dukungan
 Untuk mendapatkan bantuan, silakan buat issue di repositori atau hubungi administrator melalui WhatsApp.
+
+wa.me/6281947215703
+
+atau link group telegram
+
+https://t.me/alijayaNetAcs
 
 # Catatan Penting
 
