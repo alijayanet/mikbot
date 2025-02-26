@@ -46,9 +46,9 @@ node index.js
 ```
 
 
-# Saat pertama kali menjalankan aplikasi, Anda perlu memindai kode QR untuk mengautentikasi WhatsApp.
+Saat pertama kali menjalankan aplikasi, Anda perlu memindai kode QR untuk mengautentikasi WhatsApp.
 
-Perintah WhatsApp
+# Perintah WhatsApp
 
 Berikut adalah perintah-perintah yang tersedia melalui WhatsApp:
 
